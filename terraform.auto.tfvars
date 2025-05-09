@@ -3,4 +3,4 @@ instance_tags = {
   "ManagedBy" = "TerraformCloud"
 }
 
-instance_count = "0"
+instance_count = "1"
