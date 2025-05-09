@@ -1,5 +1,5 @@
 instance_tags = {
-  "Name" = "Webserver-${count.index +1}"
+  "Name" = "Webserver"
   "ManagedBy" = "TerraformCloud"
 }
 
